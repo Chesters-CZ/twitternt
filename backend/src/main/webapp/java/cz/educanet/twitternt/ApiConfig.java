@@ -1,4 +1,4 @@
-package cz.educanet.webik;
+package cz.educanet.twitternt;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

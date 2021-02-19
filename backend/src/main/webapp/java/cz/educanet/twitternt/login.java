@@ -8,7 +8,7 @@ import javax.ws.rs.core.Response;
 @Path("login")
 public class Login {
 
-    @GET                    // TODO: spojit j userlistem
+    @GET                    // TODO: spojit s userlistem
     public Response GetUserLogin (@QueryParam("user") String username, @QueryParam("pass") String password) {
         return Response.status(501).build(); //Not implemented
         /* Not yet functional, userarray does not exist.

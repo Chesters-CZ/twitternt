@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cbbc05c-6d81-45ce-bce1-945105c11a2a" name="Default Changelist" comment="" />
+    <list default="true" id="5f20adbd-9b39-483e-adb4-1ebd82e69520" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +16,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1oebtfc1neOVqtHeWJKes2Abbpg" />
+  <component name="ProjectId" id="1oedclPldvkhT0DMlsY6LoVbqwa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,16 +28,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -43,12 +48,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3cbbc05c-6d81-45ce-bce1-945105c11a2a" name="Default Changelist" comment="" />
-      <created>1613650230094</created>
+      <changelist id="5f20adbd-9b39-483e-adb4-1ebd82e69520" name="Default Changelist" comment="" />
+      <created>1613651075407</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613650230094</updated>
-      <workItem from="1613650232642" duration="837000" />
+      <updated>1613651075407</updated>
+      <workItem from="1613651076834" duration="554000" />
+      <workItem from="1613663189403" duration="14000" />
+      <workItem from="1613734086408" duration="405000" />
+      <workItem from="1613734593283" duration="261000" />
     </task>
     <servers />
   </component>

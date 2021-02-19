@@ -10,9 +10,13 @@ public class Login {
 
     @GET                    // TODO: spojit j userlistem
     public Response GetUserLogin (@QueryParam("user") String username, @QueryParam("pass") String password) {
+        return Response.status(501).build(); //Not implemented
+        /* Not yet functional, userarray does not exist.
         for (int i = 0; i < userarray.size(); i++){
             if (userarray.get(i).password = password && userarray.get(i).username = username)
-                return Response.ok().build(i+"");
+                return Response.ok(i).build();
         }
+        return Response.status(404, "This combination of username and password does not exist.").build();
+         */
     }
 }

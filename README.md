@@ -22,7 +22,7 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 - [ ] **Připravit backend tak, aby se k němu dal stavět frontend**
 	- [ ] **David:** Udělat databázi userů (username + heslo, nejlíp jako custom objekt s .pass a .uname)
 	- [ ] **Malik:** Rozchodit tweetovou databázi, klidně zatim bez přidávání
-	- [ ] **Vít: ** Připravit logování + nutit lenochy
+	- [ ] **Vítek:** Připravit logování + nutit lenochy a dodělávat po nich
 
 #### Frontend
 - [ ] **Načrtněte si jak to bude vypadat (přibližně, může se to potom měnit)**

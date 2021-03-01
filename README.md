@@ -5,9 +5,8 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 ## Rozdělení práce
 
 ### Backend
-**Vedoucí:** Vít Bezouška (Login)
-**Dále se podílejí:** David Odehnal (User db), Malik Adaev (Tweety)
-
+**Vedoucí:** Vít Bezouška 
+**Dále se podílejí:** David Odehnal, Malik Adaev
 ### Frontend
 **Vedoucí:** George Hraba
 **Dále se podílí:** Marco Maťko

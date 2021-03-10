@@ -19,10 +19,20 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 ### Druhá stage
 #### Backend
 - [ ] **Připravit backend tak, aby se k němu dal stavět frontend**
-	- [ ] **David:** Udělat databázi userů (username + heslo, nejlíp jako custom objekt s .pass a .uname)
-	- [ ] **Malik:** Rozchodit tweetovou databázi, klidně zatim bez přidávání
-	- [ ] **Vítek:** Připravit logování + nutit lenochy a dodělávat po nich
+	- [ ] ~~**David:** Udělat databázi userů (username + heslo, nejlíp jako custom objekt s .pass a .uname)~~
+	- [ ] ~~**Malik:** Rozchodit tweetovou databázi, klidně zatim bez přidávání~~
+	- [X] **Vítek:** Připravit logování + nutit lenochy a dodělávat po nich
 
 #### Frontend
+- [ ] ~~**Načrtněte si jak to bude vypadat (přibližně, může se to potom měnit)**~~
+- [ ] ~~**Navrhněte si rozdělení práce (kdo co bude dělat)**~~
+
+### Třetí stage
+#### Backend
+##### Protože se ani nepokoušejí účastnit, David a Malik dostanou přidělenou práci až o ní projeví zájem. Nemá cenu plánovat něco co se nestane.
+- [ ] **Vítek:** Udělat za Davida a Malika práci z druhý stage
+
+#### Frontend
+##### Zatim pro vás práci nemám, ale bylo by fajn, kdybyste dodělali svoje úkoly z druhý stage.
 - [ ] **Načrtněte si jak to bude vypadat (přibližně, může se to potom měnit)**
 - [ ] **Navrhněte si rozdělení práce (kdo co bude dělat)**

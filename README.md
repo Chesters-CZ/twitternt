@@ -30,8 +30,7 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 ### Třetí stage
 #### Backend
 ##### Protože se ani nepokoušejí účastnit, David a Malik dostanou přidělenou práci až o ní projeví zájem. Nemá cenu plánovat něco co se nestane.
-- [ ] **Vítek:** Udělat za Davida a Malika práci z druhý stage
-
+- [X] **Vítek:** Udělat za Davida a Malika práci z druhý stage *trvalo mi to 90 minut čistýho programování, dalo se to zvládnout velmi jednoduše.*
 #### Frontend
 ##### Zatim pro vás práci nemám, ale bylo by fajn, kdybyste dodělali svoje úkoly z druhý stage.
 - [ ] **Načrtněte si jak to bude vypadat (přibližně, může se to potom měnit)**

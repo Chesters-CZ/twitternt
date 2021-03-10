@@ -1,5 +1,10 @@
 package cz.educanet.twitternt.Resources;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class LoginDatabase {
-    //FIXME: David
+
+    public static List<User> userList = new ArrayList<User>();
+
 }

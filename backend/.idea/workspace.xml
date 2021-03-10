@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cbbc05c-6d81-45ce-bce1-945105c11a2a" name="Default Changelist" comment="" />
+    <list default="true" id="3cbbc05c-6d81-45ce-bce1-945105c11a2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/twitternt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/Tweet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/LoginDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/LoginDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/TweetDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/TweetDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Tweets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/login.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +24,21 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1oebtfc1neOVqtHeWJKes2Abbpg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +50,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -39,17 +62,16 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,6 +86,10 @@
       <option name="presentableId" value="Default" />
       <updated>1613650230094</updated>
       <workItem from="1613650232642" duration="837000" />
+      <workItem from="1613740268271" duration="2000" />
+      <workItem from="1613925760341" duration="55000" />
+      <workItem from="1613925964694" duration="115000" />
+      <workItem from="1615398003991" duration="3874000" />
     </task>
     <servers />
   </component>

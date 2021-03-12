@@ -24,14 +24,13 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 	- [X] **Vítek:** Připravit logování + nutit lenochy a dodělávat po nich
 
 #### Frontend
-- [ ] ~~**Načrtněte si jak to bude vypadat (přibližně, může se to potom měnit)**~~
+- [X] **Načrtněte si jak to bude vypadat (přibližně, může se to potom měnit)**
 - [ ] ~~**Navrhněte si rozdělení práce (kdo co bude dělat)**~~
 
 ### Třetí stage
 #### Backend
 ##### Protože se ani nepokoušejí účastnit, David a Malik dostanou přidělenou práci až o ní projeví zájem. Nemá cenu plánovat něco co se nestane.
-- [X] **Vítek:** Udělat za Davida a Malika práci z druhý stage *trvalo mi to 90 minut čistýho programování, dalo se to zvládnout velmi jednoduše.*
+- [X] **Vítek:** Udělat za Davida a Malika práci z druhý stage (Rozchodit tweetovou databázi, klidně zatim bez přidávání + Udělat databázi userů (username + heslo, nejlíp jako custom objekt s .pass a .uname)) *trvalo mi to 90 minut čistýho programování, dalo se to zvládnout velmi jednoduše.*
 #### Frontend
 ##### Zatim pro vás práci nemám, ale bylo by fajn, kdybyste dodělali svoje úkoly z druhý stage.
-- [ ] **Načrtněte si jak to bude vypadat (přibližně, může se to potom měnit)**
 - [ ] **Navrhněte si rozdělení práce (kdo co bude dělat)**

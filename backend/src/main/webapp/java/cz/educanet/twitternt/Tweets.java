@@ -16,6 +16,8 @@ public class Tweets {
         return Response.ok(TweetDatabase.tweetsList.toString()).build();
     }
 
+    //TODO: get tweets od jednoho uživatele, pass + uname input a response budou buď všechny tweety od uživatele nebo 404
+
     @POST
     public Response PostTweet(@QueryParam("user") String username, @QueryParam("pass") String password, @QueryParam("head") String header, @QueryParam("body") String body) {
         for (int i = 0; i < LoginDatabase.userList.size(); i++) {
@@ -33,7 +35,7 @@ public class Tweets {
 
     @DELETE
     public Response RemoveTweet(@QueryParam("user") String username, @QueryParam("pass") String password,  @QueryParam("head") String header, @QueryParam("body") String body) {
-        for (int i = 0; i < TweetDatabase.tweetsList.size(); i++) {       //TODO
+        for (int i = 0; i < TweetDatabase.tweetsList.size(); i++) {
             if (TweetDatabase.tweetsList.get(i).header.equals(header) && TweetDatabase.tweetsList.get(i).body.equals(body)) {
                     if (TweetDatabase.tweetsList.get(i).author.equals(new User(username, password))){
                         TweetDatabase.tweetsList.remove(i);

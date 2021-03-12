@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cbbc05c-6d81-45ce-bce1-945105c11a2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/twitternt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/Tweet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/LoginDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/LoginDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/TweetDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Resources/TweetDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Tweets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Tweets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/twitternt/Tweets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +68,7 @@
       <workItem from="1613925760341" duration="55000" />
       <workItem from="1613925964694" duration="115000" />
       <workItem from="1615398003991" duration="3874000" />
+      <workItem from="1615549299184" duration="644000" />
     </task>
     <servers />
   </component>

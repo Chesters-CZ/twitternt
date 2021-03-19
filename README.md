@@ -37,3 +37,12 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 - [ ] **Navrhněte si rozdělení práce (kdo co bude dělat)**
 - [ ] **George:** Feed, logo, název stránky
 - [ ] **Marco:** Hledat, tweet button, můj účet
+
+### Třetí stage
+#### Backend
+- [X] **Vítek:** 
+- [ ] **Malik:** 
+- [ ] **David:** 
+#### Frontend
+- [ ] **George:** Tweet button, hledat 
+- [ ] **Marco:** Dodělat feed

@@ -34,15 +34,15 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 - [ ] **David:** Implementace likování
 #### Frontend
 ##### Zatim pro vás práci nemám, ale bylo by fajn, kdybyste dodělali svoje úkoly z druhý stage.
-- [ ] **Navrhněte si rozdělení práce (kdo co bude dělat)**
+- [X] **Navrhněte si rozdělení práce (kdo co bude dělat)**
 - [ ] **George:** Feed, logo, název stránky
 - [ ] **Marco:** Hledat, tweet button, můj účet
 
 ### Čtvrtá stage
 #### Backend
-- [X] **Vítek:** 
-- [ ] **Malik:** 
-- [ ] **David:** 
+- [ ] **Vítek:** verified checkmark
+- [ ] **Malik:** hashování
+- [ ] **David:** http.cat/599
 #### Frontend
 - [ ] **George:** Tweet button, hledat 
 - [ ] **Marco:** Dodělat feed

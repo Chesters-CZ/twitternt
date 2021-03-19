@@ -38,7 +38,7 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 - [ ] **George:** Feed, logo, název stránky
 - [ ] **Marco:** Hledat, tweet button, můj účet
 
-### Třetí stage
+### Čtvrtá stage
 #### Backend
 - [X] **Vítek:** 
 - [ ] **Malik:** 

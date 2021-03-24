@@ -46,5 +46,17 @@ public class Tweets {
         return Response.status(404, "This post does not exist.").build();
     }
 
+    @PUT
+    public Response LikeTweet(@QueryParam("user") String username, @QueryParam("pass") String password, @QueryParam("head") String header, @QueryParam("body") String body, @QueryParam("likes") String likes, @QueryParam("likedBy") String likedBy) {
+        for (int i = 0; i < TweetDatabase.tweetsList.size(); i++) {
+            if (TweetDatabase.tweetsList.get(i).header.equals(header) && TweetDatabase.tweetsList.get(i).body.equals(body) && !TweetDatabase.tweetsList.get(i).likedBy.equals(username)) {
+                if (TweetDatabase.tweetsList.get(i).author.equals(new User(username, password))) {
+                    TweetDatabase.tweetsList.set(i);
+                    return Response.ok("like saved " + header).build();
+                } else return Response.status(401, "supplied credentials do not match author credentials.").build();
+            }
+        }
+        return Response.status(404, "This post does not exist.").build();
+    }
     //TODO: David - přidat liketweet metodu, asiže put, nejlíp tak, aby se kontrolovalo kdo likuje, tzn. max. 1 like/uživatel. klidně uprav i tweet classu a udělej něco jako .likes a .likedBy
 }

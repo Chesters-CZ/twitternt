@@ -52,3 +52,6 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 - [ ] **Vítek:** prevence duplicitních liků + optimalizace likování
 - [ ] **Malik:** 
 - [ ] **David:** Dodělat čtvrtou stage
+#### Frontend
+- [ ] **George:** Tweet button, hledat 
+- [ ] **Marco:** Dodělat stage 4, Můj účet

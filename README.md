@@ -40,9 +40,15 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 
 ### Čtvrtá stage
 #### Backend
-- [ ] **Vítek:** verified checkmark
+- [X] **Vítek:** verified checkmark
 - [ ] **Malik:** hashování
 - [ ] **David:** http.cat/599
 #### Frontend
 - [ ] **George:** Tweet button, hledat 
 - [ ] **Marco:** Dodělat feed
+
+### Pátá stage
+#### Backend
+- [ ] **Vítek:** prevence duplicitních liků
+- [ ] **Malik:** 
+- [ ] **David:** 

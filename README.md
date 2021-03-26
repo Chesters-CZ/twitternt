@@ -31,7 +31,7 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 #### Backend
 - [X] **Vítek:** Udělat za Davida a Malika práci z druhý stage (Rozchodit tweetovou databázi, klidně zatim bez přidávání + Udělat databázi userů (username + heslo, nejlíp jako custom objekt s .pass a .uname)) *trvalo mi to 90 minut čistýho programování, dalo se to zvládnout velmi jednoduše.*
 - [ ] **Malik:** Přidat get tweets od jednoho usera.
-- [ ] **David:** Implementace likování
+- [X] **David:** Implementace likování
 #### Frontend
 ##### Zatim pro vás práci nemám, ale bylo by fajn, kdybyste dodělali svoje úkoly z druhý stage.
 - [X] **Navrhněte si rozdělení práce (kdo co bude dělat)**

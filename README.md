@@ -46,3 +46,12 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 #### Frontend
 - [ ] **George:** Tweet button, hledat 
 - [ ] **Marco:** Dodělat feed
+
+### Pátá stage
+#### Backend
+- [ ] **Vítek:** 
+- [ ] **Malik:** 
+- [ ] **David:** 
+#### Frontend
+- [ ] **George:** Přidat stránku „Můj profil"
+- [ ] **Marco:** Dodělat feed

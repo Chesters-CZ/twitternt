@@ -49,6 +49,6 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 
 ### Pátá stage
 #### Backend
-- [ ] **Vítek:** prevence duplicitních liků
+- [ ] **Vítek:** prevence duplicitních liků + optimalizace likování
 - [ ] **Malik:** 
 - [ ] **David:** 

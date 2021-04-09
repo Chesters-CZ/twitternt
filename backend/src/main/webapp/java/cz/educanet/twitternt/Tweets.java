@@ -1,9 +1,9 @@
-package cz.educanet.twitternt;
+package java.cz.educanet.twitternt;
 
-import cz.educanet.twitternt.Resources.LoginDatabase;
-import cz.educanet.twitternt.Resources.Tweet;
-import cz.educanet.twitternt.Resources.TweetDatabase;
-import cz.educanet.twitternt.Resources.User;
+import java.cz.educanet.twitternt.Resources.LoginDatabase;
+import java.cz.educanet.twitternt.Resources.Tweet;
+import java.cz.educanet.twitternt.Resources.TweetDatabase;
+import java.cz.educanet.twitternt.Resources.User;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.Response;
@@ -49,14 +49,18 @@ public class Tweets {
     @PUT
     public Response LikeTweet(@QueryParam("user") String username, @QueryParam("pass") String password, @QueryParam("head") String header, @QueryParam("body") String body, @QueryParam("likes") String likes, @QueryParam("likedBy") String likedBy) {
         for (int i = 0; i < TweetDatabase.tweetsList.size(); i++) {
-            if (TweetDatabase.tweetsList.get(i).header.equals(header) && TweetDatabase.tweetsList.get(i).body.equals(body) && !TweetDatabase.tweetsList.get(i).likedBy.equals(username)) {
-                if (TweetDatabase.tweetsList.get(i).author.equals(new User(username, password))) {
-                    TweetDatabase.tweetsList.set(i);
-                    return Response.ok("like saved " + header).build();
-                } else return Response.status(401, "supplied credentials do not match author credentials.").build();
+            if (TweetDatabase.tweetsList.get(i).header.equals(header) && TweetDatabase.tweetsList.get(i).body.equals(body)) {
+                if (!TweetDatabase.tweetsList.get(i).likedBy.contains(username)) {
+                    TweetDatabase.tweetsList.get(i).likedBy = TweetDatabase.tweetsList.get(i).likedBy += username;
+                    TweetDatabase.tweetsList.get(i).likes = TweetDatabase.tweetsList.get(i).likes++;
+                    return Response.ok(username + " liked " + header).build();
+                } else {
+                    TweetDatabase.tweetsList.get(i).likedBy = TweetDatabase.tweetsList.get(i).likedBy.replace(username, "");
+                    TweetDatabase.tweetsList.get(i).likes = TweetDatabase.tweetsList.get(i).likes--;
+                    return Response.ok(username + " unliked " + header).build();
+                }
             }
         }
         return Response.status(404, "This post does not exist.").build();
     }
-    //TODO: David - přidat liketweet metodu, asiže put, nejlíp tak, aby se kontrolovalo kdo likuje, tzn. max. 1 like/uživatel. klidně uprav i tweet classu a udělej něco jako .likes a .likedBy
 }

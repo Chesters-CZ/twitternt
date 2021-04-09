@@ -1,12 +1,12 @@
-package cz.educanet.twitternt.Resources;
+package java.cz.educanet.twitternt.Resources;
 
-import cz.educanet.twitternt.Resources.User;
+import java.cz.educanet.twitternt.Resources.User;
 
 public class Tweet{
     public String header;
     public User author;
     public String body;
-    public String likes;
+    public int likes;
     public String likedBy;
 
     public Tweet() {
@@ -14,7 +14,7 @@ public class Tweet{
         this.author = null;
 
         this.body = null;
-        this.likes = null;
+        this.likes = -1;
         this.likedBy = null;
     }
 
@@ -24,7 +24,7 @@ public class Tweet{
         this.body = body;
     }
 
-    public Tweet(String header, User user, String body, String likes, String likedBy) {
+    public Tweet(String header, User user, String body, int likes, String likedBy) {
         this.header = header;
         this.author = user;
         this.body = body;

@@ -1,6 +1,6 @@
-package cz.educanet.twitternt;
+package java.cz.educanet.twitternt;
 
-import cz.educanet.twitternt.Resources.LoginDatabase;
+import java.cz.educanet.twitternt.Resources.LoginDatabase;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.PUT;

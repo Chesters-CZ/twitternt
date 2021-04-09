@@ -1,4 +1,4 @@
-package cz.educanet.twitternt.Resources;
+package java.cz.educanet.twitternt.Resources;
 
 public class User {
 

@@ -55,3 +55,11 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 #### Frontend
 - [ ] **George:** Tweet button, hledat 
 - [ ] **Marco:** Dodělat stage 4, Můj účet
+
+### šestá stage
+Lidi se přesouvaj!
+#### Backend
+- [ ] **Malik:** DODAT KÓD
+#### Frontend
+- [ ] **George:**
+- [ ] **Marco:**

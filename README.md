@@ -49,7 +49,7 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 
 ### Pátá stage
 #### Backend
-- [ ] **Vítek:** prevence duplicitních liků + optimalizace likování, dostat z malika kód anebo po něm dodělat 3. stage
+- [X] **Vítek:** prevence duplicitních liků + optimalizace likování, ~~dostat z malika kód anebo po něm dodělat 3. stage~~
 - [ ] **Malik:** 
 - [ ] **David:** Dodělat čtvrtou stage
 #### Frontend
@@ -63,3 +63,4 @@ Lidi se přesouvaj!
 #### Frontend
 - [ ] **George:**
 - [ ] **Marco:**
+- [ ] **Vítek:** technical support?

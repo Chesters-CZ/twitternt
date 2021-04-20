@@ -35,7 +35,7 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 #### Frontend
 ##### Zatim pro vás práci nemám, ale bylo by fajn, kdybyste dodělali svoje úkoly z druhý stage.
 - [X] **Navrhněte si rozdělení práce (kdo co bude dělat)**
-- [ ] **George:** Feed, logo, název stránky
+- [ X] **George:** Feed, logo, název stránky
 - [ ] **Marco:** Hledat, tweet button, můj účet
 
 ### Čtvrtá stage
@@ -44,7 +44,7 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 - [ ] **Malik:** hashování
 - [ ] **David:** http.cat/599
 #### Frontend
-- [ ] **George:** Tweet button, hledat 
+- [X ] **George:** Tweet button, hledat 
 - [ ] **Marco:** Dodělat feed
 
 ### Pátá stage
@@ -53,7 +53,7 @@ tahle věc bude zjednodušenej klon twitteru. uživatelé se budou moci přes we
 - [ ] **Malik:** 
 - [ ] **David:** Dodělat čtvrtou stage
 #### Frontend
-- [ ] **George:** Tweet button, hledat 
+- [X ] **George:** Tweet button, hledat 
 - [ ] **Marco:** Dodělat stage 4, Můj účet
 
 ### šestá stage
